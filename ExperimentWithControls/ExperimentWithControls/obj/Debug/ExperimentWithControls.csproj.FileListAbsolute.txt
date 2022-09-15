@@ -1,0 +1,16 @@
+C:\Code\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe.config
+C:\Code\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.exe
+C:\Code\ExperimentWithControls\ExperimentWithControls\bin\Debug\ExperimentWithControls.pdb
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.AssemblyReference.cache
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.SuggestedBindingRedirects.cache
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\MainWindow.g.cs
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\App.g.cs
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.cache
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls_MarkupCompile.lref
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\MainWindow.baml
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.g.resources
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.Properties.Resources.resources
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.GenerateResource.cache
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.csproj.CoreCompileInputs.cache
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.exe
+C:\Code\ExperimentWithControls\ExperimentWithControls\obj\Debug\ExperimentWithControls.pdb

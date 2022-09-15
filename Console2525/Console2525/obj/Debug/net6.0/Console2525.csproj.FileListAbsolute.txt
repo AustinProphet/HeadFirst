@@ -1,0 +1,15 @@
+C:\Code\Console2525\Console2525\bin\Debug\net6.0\Console2525.exe
+C:\Code\Console2525\Console2525\bin\Debug\net6.0\Console2525.deps.json
+C:\Code\Console2525\Console2525\bin\Debug\net6.0\Console2525.runtimeconfig.json
+C:\Code\Console2525\Console2525\bin\Debug\net6.0\Console2525.dll
+C:\Code\Console2525\Console2525\bin\Debug\net6.0\Console2525.pdb
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.csproj.AssemblyReference.cache
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.AssemblyInfoInputs.cache
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.AssemblyInfo.cs
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.csproj.CoreCompileInputs.cache
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.dll
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\refint\Console2525.dll
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.pdb
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\Console2525.genruntimeconfig.cache
+C:\Code\Console2525\Console2525\obj\Debug\net6.0\ref\Console2525.dll
