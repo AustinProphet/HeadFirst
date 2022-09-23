@@ -1,0 +1,15 @@
+C:\Code\DamageCalculator\DamageCalculator\bin\Debug\net6.0\DamageCalculator.exe
+C:\Code\DamageCalculator\DamageCalculator\bin\Debug\net6.0\DamageCalculator.deps.json
+C:\Code\DamageCalculator\DamageCalculator\bin\Debug\net6.0\DamageCalculator.runtimeconfig.json
+C:\Code\DamageCalculator\DamageCalculator\bin\Debug\net6.0\DamageCalculator.dll
+C:\Code\DamageCalculator\DamageCalculator\bin\Debug\net6.0\DamageCalculator.pdb
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.csproj.AssemblyReference.cache
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.AssemblyInfoInputs.cache
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.AssemblyInfo.cs
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.csproj.CoreCompileInputs.cache
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.dll
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\refint\DamageCalculator.dll
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.pdb
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\DamageCalculator.genruntimeconfig.cache
+C:\Code\DamageCalculator\DamageCalculator\obj\Debug\net6.0\ref\DamageCalculator.dll

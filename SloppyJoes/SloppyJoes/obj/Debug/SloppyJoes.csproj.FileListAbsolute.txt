@@ -1,0 +1,16 @@
+C:\Code\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe.config
+C:\Code\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.exe
+C:\Code\SloppyJoes\SloppyJoes\bin\Debug\SloppyJoes.pdb
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.AssemblyReference.cache
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.SuggestedBindingRedirects.cache
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.g.cs
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\App.g.cs
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.cache
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes_MarkupCompile.lref
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\MainWindow.baml
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.g.resources
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.Properties.Resources.resources
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.GenerateResource.cache
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.csproj.CoreCompileInputs.cache
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.exe
+C:\Code\SloppyJoes\SloppyJoes\obj\Debug\SloppyJoes.pdb

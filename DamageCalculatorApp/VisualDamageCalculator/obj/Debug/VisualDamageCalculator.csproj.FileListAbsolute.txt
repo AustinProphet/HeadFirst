@@ -1,0 +1,16 @@
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\bin\Debug\VisualDamageCalculator.exe.config
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\bin\Debug\VisualDamageCalculator.exe
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\bin\Debug\VisualDamageCalculator.pdb
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.csproj.AssemblyReference.cache
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\MainWindow.g.cs
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\App.g.cs
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator_MarkupCompile.cache
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator_MarkupCompile.lref
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\MainWindow.baml
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.g.resources
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.Properties.Resources.resources
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.csproj.GenerateResource.cache
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.csproj.CoreCompileInputs.cache
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.exe
+C:\Code\DamageCalculatorApp\VisualDamageCalculator\obj\Debug\VisualDamageCalculator.pdb

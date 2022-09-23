@@ -1,0 +1,15 @@
+C:\Code\WorkingClassGuys\WorkingClassGuys\bin\Debug\net6.0\WorkingClassGuys.exe
+C:\Code\WorkingClassGuys\WorkingClassGuys\bin\Debug\net6.0\WorkingClassGuys.deps.json
+C:\Code\WorkingClassGuys\WorkingClassGuys\bin\Debug\net6.0\WorkingClassGuys.runtimeconfig.json
+C:\Code\WorkingClassGuys\WorkingClassGuys\bin\Debug\net6.0\WorkingClassGuys.dll
+C:\Code\WorkingClassGuys\WorkingClassGuys\bin\Debug\net6.0\WorkingClassGuys.pdb
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.csproj.AssemblyReference.cache
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.AssemblyInfoInputs.cache
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.AssemblyInfo.cs
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.csproj.CoreCompileInputs.cache
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.dll
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\refint\WorkingClassGuys.dll
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.pdb
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\WorkingClassGuys.genruntimeconfig.cache
+C:\Code\WorkingClassGuys\WorkingClassGuys\obj\Debug\net6.0\ref\WorkingClassGuys.dll

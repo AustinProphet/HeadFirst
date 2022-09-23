@@ -1,0 +1,15 @@
+C:\Code\HiLoGame\HiLoGame\bin\Debug\net6.0\HiLoGame.exe
+C:\Code\HiLoGame\HiLoGame\bin\Debug\net6.0\HiLoGame.deps.json
+C:\Code\HiLoGame\HiLoGame\bin\Debug\net6.0\HiLoGame.runtimeconfig.json
+C:\Code\HiLoGame\HiLoGame\bin\Debug\net6.0\HiLoGame.dll
+C:\Code\HiLoGame\HiLoGame\bin\Debug\net6.0\HiLoGame.pdb
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.csproj.AssemblyReference.cache
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.AssemblyInfoInputs.cache
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.AssemblyInfo.cs
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.csproj.CoreCompileInputs.cache
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.dll
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\refint\HiLoGame.dll
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.pdb
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\HiLoGame.genruntimeconfig.cache
+C:\Code\HiLoGame\HiLoGame\obj\Debug\net6.0\ref\HiLoGame.dll

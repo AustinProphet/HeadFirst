@@ -1,0 +1,16 @@
+C:\Code\PickACardUI\PickACardUI\bin\Debug\PickACardUI.exe.config
+C:\Code\PickACardUI\PickACardUI\bin\Debug\PickACardUI.exe
+C:\Code\PickACardUI\PickACardUI\bin\Debug\PickACardUI.pdb
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.AssemblyReference.cache
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.SuggestedBindingRedirects.cache
+C:\Code\PickACardUI\PickACardUI\obj\Debug\MainWindow.g.cs
+C:\Code\PickACardUI\PickACardUI\obj\Debug\App.g.cs
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.cache
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI_MarkupCompile.lref
+C:\Code\PickACardUI\PickACardUI\obj\Debug\MainWindow.baml
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.g.resources
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.Properties.Resources.resources
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.GenerateResource.cache
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.csproj.CoreCompileInputs.cache
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.exe
+C:\Code\PickACardUI\PickACardUI\obj\Debug\PickACardUI.pdb

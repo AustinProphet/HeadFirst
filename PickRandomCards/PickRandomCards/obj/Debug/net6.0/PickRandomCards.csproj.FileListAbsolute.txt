@@ -1,0 +1,15 @@
+C:\Code\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.exe
+C:\Code\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.deps.json
+C:\Code\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.runtimeconfig.json
+C:\Code\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.dll
+C:\Code\PickRandomCards\PickRandomCards\bin\Debug\net6.0\PickRandomCards.pdb
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.AssemblyReference.cache
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfoInputs.cache
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.AssemblyInfo.cs
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.dll
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\refint\PickRandomCards.dll
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.pdb
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\PickRandomCards.genruntimeconfig.cache
+C:\Code\PickRandomCards\PickRandomCards\obj\Debug\net6.0\ref\PickRandomCards.dll

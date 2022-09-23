@@ -1,0 +1,15 @@
+C:\Code\BettingGame\BettingGame\bin\Debug\net6.0\BettingGame.exe
+C:\Code\BettingGame\BettingGame\bin\Debug\net6.0\BettingGame.deps.json
+C:\Code\BettingGame\BettingGame\bin\Debug\net6.0\BettingGame.runtimeconfig.json
+C:\Code\BettingGame\BettingGame\bin\Debug\net6.0\BettingGame.dll
+C:\Code\BettingGame\BettingGame\bin\Debug\net6.0\BettingGame.pdb
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.csproj.AssemblyReference.cache
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.AssemblyInfoInputs.cache
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.AssemblyInfo.cs
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.csproj.CoreCompileInputs.cache
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.dll
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\refint\BettingGame.dll
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.pdb
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\BettingGame.genruntimeconfig.cache
+C:\Code\BettingGame\BettingGame\obj\Debug\net6.0\ref\BettingGame.dll
